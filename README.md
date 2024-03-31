@@ -16,7 +16,8 @@ Frontend: Built with React.js for a responsive and intuitive user interface.
 Backend: Powered by Express.js and Node.js for efficient server-side logic and API development.
 Database: MongoDB utilized for flexible and scalable data storage and retrieval.
 Get Started:
-Clone the repository: git clone https://github.com/Prathmesh2712/TechNexus.git
+Clone the repository: git clone https://github.com/Prathmesh2712/
+
 Install dependencies: npm install
 Start the development server: npm start
 Access the application at http://localhost:3000
